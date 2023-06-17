@@ -8,17 +8,17 @@ This is a test application created for **SupplySustain** Company. This applicati
 
 1. First clone and cd to that
    
-```c#
+```
 git clone https://github.com/monachitsaz/SupplySustain
 ```
 2. Install all dependencies
    
-```c#
+```
 npm install
 ```
 3. Now you can run app
 
-```c#
+```
 ng serve -o
 ```
 #### Note
